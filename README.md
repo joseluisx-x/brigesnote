@@ -70,7 +70,7 @@ Las rutas de la API se registran en `bootstrap/app.php` (Laravel 13) y se cargan
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/hubelsolis/brigesnote.git
+git clone https://github.com/joseluisx-x/abc-software.git
 cd brigesnote
 ```
 
